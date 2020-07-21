@@ -1,8 +1,9 @@
-![cover](https://cotenfrontend.pl/img/cover.png)
+![cover](https://marcinkrygier.github.io/simple-editor/og-editor.png)
 
-# WTF Webpack Starter Kit 
+# MARCIN KRYGIER - JUNIOR FRONTEND DEVELOPER
 
-Simple toolkit for your static websites development.
+My simple portfolio website
+
 
 ## How to use it?
 
